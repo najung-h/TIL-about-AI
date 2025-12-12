@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+.venv/
+env/
+venv/
+*.pyc
+
+# Secrets
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML Models & Data
+models/
+data/
+datasets/
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
